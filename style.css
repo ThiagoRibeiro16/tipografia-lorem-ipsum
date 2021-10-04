@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap");
+
+h1 {
+  font-family: "roboto", sans-serif;
+  color: aqua;
+}
+
+h2 {
+  font-family: "roboto", sans-serif;
+  color:aqua;
+}
+
+h3 {
+  font-family: "roboto", sans-serif;
+  color: aqua;
+}
+
+h4 {
+  font-family: "roboto", sans-serif;
+ color: aqua;
+}
+
+p {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  color: black;
+}
+img {
+  margin-left: 10px;
+  border: 10px solid white;
+  box-shadow: 2px 2px 6px black; 
+}
+a {
+  
+  
+  padding: 4px;
+  margin-bottom: 14px;
+  text-decoration: none;
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  color: black;
+}
+a:hover {
+  background-color: black;
+  color: white;
+
+  
+  
+}
